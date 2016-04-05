@@ -11,8 +11,11 @@
 从图中我们可以看出，当时间快接近4秒的时候，两者的区别在肉眼内不可分辨，根据趋势线推测，两者最终会达到一个动态平衡。
 可以说这个衰变过程是一个稳定的衰变过程。  
 接下来我们把总时间缩小，令t=3；t=1，继续上面的操作，结果如下图  
-[衰变程序 t=3](https://github.com/Wangzhengwhu/Homework-5/blob/master/t%3D3.png)  
-[衰变程序 t=1](https://github.com/Wangzhengwhu/Homework-5/blob/master/t%3D1.png)  
+t=3s时的图像  
+![衰变程序 t=3](https://github.com/Wangzhengwhu/Homework-5/blob/master/t%3D3.png)  
+t=1s时的图像  
+![衰变程序 t=1](https://github.com/Wangzhengwhu/Homework-5/blob/master/t%3D1.png)  
+当时间越短的时候，我们越能看出前期衰变时候，A与B粒子数目的对比，它们的衰变符合指数分布，当t趋向于无穷时，它们两者达到平衡。
 
 
 
