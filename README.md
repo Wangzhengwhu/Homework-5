@@ -6,6 +6,7 @@
 根据书上的微分方程，通过调整参数的设定，我们可以给出一些结论。  
 ##数值解微分方程
 按照书上给出的参数，先进行模拟，NA=100,NB=0,tau=1，t=10 dt=0.1  
+[衰变程序](https://github.com/Wangzhengwhu/Homework-5/blob/master/%E6%A0%B8%E5%AD%90%E8%A1%B0%E5%8F%98%E6%A8%A1%E5%9E%8B.py)  
 
 
 
