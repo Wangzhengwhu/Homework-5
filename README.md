@@ -8,6 +8,15 @@
 按照书上给出的参数，先进行模拟，NA=100,NB=0,tau=1，t=10 dt=0.1  
 [衰变程序](https://github.com/Wangzhengwhu/Homework-5/blob/master/%E6%A0%B8%E5%AD%90%E8%A1%B0%E5%8F%98%E6%A8%A1%E5%9E%8B.py)  
 ![衰变图像](https://github.com/Wangzhengwhu/Homework-5/blob/master/%E6%A0%B8%E5%AD%90%E8%A1%B0%E5%8F%98.png)  
+从图中我们可以看出，当时间快接近4秒的时候，两者的区别在肉眼内不可分辨，根据趋势线推测，两者最终会达到一个动态平衡。
+可以说这个衰变过程是一个稳定的衰变过程。  
+接下来我们把总时间缩小，令t=3；t=1，继续上面的操作，结果如下图  
+
+
+
+
+##致谢
+感谢张爽同学提供的程序  
 
  
 
